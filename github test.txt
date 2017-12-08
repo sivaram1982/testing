@@ -9,3 +9,10 @@ stdio
 int main
 getchar
 putchar
+
+prinf
+scanf
+stdio
+int main
+getchar
+putchar
