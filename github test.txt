@@ -2,3 +2,10 @@ confidential
 virtusa
 c++
 html
+
+prinf
+scanf
+stdio
+int main
+getchar
+putchar
