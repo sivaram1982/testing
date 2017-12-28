@@ -1,0 +1,12 @@
+confidential
+virtusa
+c++
+html
+
+scanf
+
+
+printf
+scanf
+getchar
+putchar
