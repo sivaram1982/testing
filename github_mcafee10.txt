@@ -9,4 +9,3 @@ scanf
 printf
 scanf
 getchar
-putchar
